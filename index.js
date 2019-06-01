@@ -1,3 +1,4 @@
-var OSinfo = require('./modules/OSInfo');
+const OSinfo = require('./modules/OSInfo');
+
 
 OSinfo.print();
